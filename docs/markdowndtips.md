@@ -25,3 +25,6 @@ _italic_
 *italic*
 
 ```
+
+Extensions:
+- https://facelessuser.github.io/pymdown-extensions/
