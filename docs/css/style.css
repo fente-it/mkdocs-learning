@@ -1,0 +1,15 @@
+/* Change the background color of the navigation menu */
+
+.wy-side-nav-search {
+    background-color: #bec1e6;
+}
+
+.wy-nav-side {
+    color: #4b4949;
+    background: #bec1e6;
+}
+
+/*Change navigation menu on mobile*/
+.wy-nav-top{
+    background-color: #bec1e6;
+}
