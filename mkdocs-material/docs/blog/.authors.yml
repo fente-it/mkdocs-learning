@@ -1,0 +1,14 @@
+authors:
+  jenny:
+    name: jenny        # Author name
+    description: string # Author description
+    avatar: url         # Author avatar
+    slug: jenny           # Author profile slug
+    url: url            # Author website URL
+  janne:
+    name: janne       
+    description: test
+    avatar: url       
+    slug: janne       
+    url: janne        
+  
